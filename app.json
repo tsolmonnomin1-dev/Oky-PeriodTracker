@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Period Tracker",
+    "slug": "period-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#87CEEB"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.yourname.periodtracker"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#87CEEB"
+      },
+      "package": "com.yourname.periodtracker"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
